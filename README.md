@@ -1,2 +1,2 @@
 # .NET-apps
-Learning to create web forms, MVC and more
+Learning to create web apis, MVC and more
