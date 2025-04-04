@@ -1,0 +1,10 @@
+C:\Users\kcsak\OneDrive\Documents\learning C#\Challenges\basic-calc\basic-calc-program\bin\Debug\basic-calc-program.exe.config
+C:\Users\kcsak\OneDrive\Documents\learning C#\Challenges\basic-calc\basic-calc-program\bin\Debug\basic-calc-program.exe
+C:\Users\kcsak\OneDrive\Documents\learning C#\Challenges\basic-calc\basic-calc-program\bin\Debug\basic-calc-program.pdb
+C:\Users\kcsak\OneDrive\Documents\learning C#\Challenges\basic-calc\basic-calc-program\obj\Debug\basic-calc-program.csproj.AssemblyReference.cache
+C:\Users\kcsak\OneDrive\Documents\learning C#\Challenges\basic-calc\basic-calc-program\obj\Debug\basic_calc_program.Form1.resources
+C:\Users\kcsak\OneDrive\Documents\learning C#\Challenges\basic-calc\basic-calc-program\obj\Debug\basic_calc_program.Properties.Resources.resources
+C:\Users\kcsak\OneDrive\Documents\learning C#\Challenges\basic-calc\basic-calc-program\obj\Debug\basic-calc-program.csproj.GenerateResource.cache
+C:\Users\kcsak\OneDrive\Documents\learning C#\Challenges\basic-calc\basic-calc-program\obj\Debug\basic-calc-program.csproj.CoreCompileInputs.cache
+C:\Users\kcsak\OneDrive\Documents\learning C#\Challenges\basic-calc\basic-calc-program\obj\Debug\basic-calc-program.exe
+C:\Users\kcsak\OneDrive\Documents\learning C#\Challenges\basic-calc\basic-calc-program\obj\Debug\basic-calc-program.pdb
