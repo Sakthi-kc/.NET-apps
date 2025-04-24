@@ -8,3 +8,13 @@ C:\Users\kcsak\OneDrive\Documents\learning C#\Challenges\basic-calc\basic-calc-p
 C:\Users\kcsak\OneDrive\Documents\learning C#\Challenges\basic-calc\basic-calc-program\obj\Debug\basic-calc-program.csproj.CoreCompileInputs.cache
 C:\Users\kcsak\OneDrive\Documents\learning C#\Challenges\basic-calc\basic-calc-program\obj\Debug\basic-calc-program.exe
 C:\Users\kcsak\OneDrive\Documents\learning C#\Challenges\basic-calc\basic-calc-program\obj\Debug\basic-calc-program.pdb
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\basic-calc-program\bin\Debug\basic-calc-program.exe.config
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\basic-calc-program\bin\Debug\basic-calc-program.exe
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\basic-calc-program\bin\Debug\basic-calc-program.pdb
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\basic-calc-program\obj\Debug\basic-calc-program.csproj.AssemblyReference.cache
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\basic-calc-program\obj\Debug\basic_calc_program.Form1.resources
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\basic-calc-program\obj\Debug\basic_calc_program.Properties.Resources.resources
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\basic-calc-program\obj\Debug\basic-calc-program.csproj.GenerateResource.cache
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\basic-calc-program\obj\Debug\basic-calc-program.csproj.CoreCompileInputs.cache
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\basic-calc-program\obj\Debug\basic-calc-program.exe
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\basic-calc-program\obj\Debug\basic-calc-program.pdb

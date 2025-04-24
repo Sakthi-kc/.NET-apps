@@ -1,0 +1,15 @@
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\greatest_of_4\bin\Debug\net8.0\greatest_of_4.exe
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\greatest_of_4\bin\Debug\net8.0\greatest_of_4.deps.json
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\greatest_of_4\bin\Debug\net8.0\greatest_of_4.runtimeconfig.json
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\greatest_of_4\bin\Debug\net8.0\greatest_of_4.dll
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\greatest_of_4\bin\Debug\net8.0\greatest_of_4.pdb
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\greatest_of_4\obj\Debug\net8.0\greatest_of_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\greatest_of_4\obj\Debug\net8.0\greatest_of_4.AssemblyInfoInputs.cache
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\greatest_of_4\obj\Debug\net8.0\greatest_of_4.AssemblyInfo.cs
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\greatest_of_4\obj\Debug\net8.0\greatest_of_4.csproj.CoreCompileInputs.cache
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\greatest_of_4\obj\Debug\net8.0\greatest_of_4.sourcelink.json
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\greatest_of_4\obj\Debug\net8.0\greatest_of_4.dll
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\greatest_of_4\obj\Debug\net8.0\refint\greatest_of_4.dll
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\greatest_of_4\obj\Debug\net8.0\greatest_of_4.pdb
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\greatest_of_4\obj\Debug\net8.0\greatest_of_4.genruntimeconfig.cache
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\greatest_of_4\obj\Debug\net8.0\ref\greatest_of_4.dll
