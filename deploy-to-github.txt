@@ -1,0 +1,23 @@
+Uploading the .NET project to GitHub
+
+1. Goto the solution folder in your local. 
+	Right-click on the solution folder.
+	Click on show more options and choose Open Git bash here.
+
+	OR cd "{Path}" --> copy the path from show more options and paste here}
+	
+2. Enter git init
+
+3. Enter git add .
+
+4. Enter git commit -m "Commit message"
+
+5. Enter git remote add origin {$Repo-URL}
+
+6. Enter git branch -M main
+
+7. Enter git push -u origin main
+
+8. If error on step 7, follow these 2 actions:
+	Enter git pull origin main --rebase
+	Enter git push origin main
