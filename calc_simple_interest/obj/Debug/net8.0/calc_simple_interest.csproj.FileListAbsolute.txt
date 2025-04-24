@@ -1,0 +1,14 @@
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_simple_interest\bin\Debug\net8.0\calc_simple_interest.exe
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_simple_interest\bin\Debug\net8.0\calc_simple_interest.deps.json
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_simple_interest\bin\Debug\net8.0\calc_simple_interest.runtimeconfig.json
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_simple_interest\bin\Debug\net8.0\calc_simple_interest.dll
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_simple_interest\bin\Debug\net8.0\calc_simple_interest.pdb
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_simple_interest\obj\Debug\net8.0\calc_simple_interest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_simple_interest\obj\Debug\net8.0\calc_simple_interest.AssemblyInfoInputs.cache
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_simple_interest\obj\Debug\net8.0\calc_simple_interest.AssemblyInfo.cs
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_simple_interest\obj\Debug\net8.0\calc_simple_interest.csproj.CoreCompileInputs.cache
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_simple_interest\obj\Debug\net8.0\calc_simple_interest.dll
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_simple_interest\obj\Debug\net8.0\refint\calc_simple_interest.dll
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_simple_interest\obj\Debug\net8.0\calc_simple_interest.pdb
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_simple_interest\obj\Debug\net8.0\calc_simple_interest.genruntimeconfig.cache
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_simple_interest\obj\Debug\net8.0\ref\calc_simple_interest.dll

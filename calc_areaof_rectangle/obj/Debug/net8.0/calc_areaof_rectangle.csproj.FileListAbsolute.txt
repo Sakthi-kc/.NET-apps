@@ -1,0 +1,14 @@
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_areaof_rectangle\obj\Debug\net8.0\calc_areaof_rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_areaof_rectangle\obj\Debug\net8.0\calc_areaof_rectangle.AssemblyInfoInputs.cache
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_areaof_rectangle\obj\Debug\net8.0\calc_areaof_rectangle.AssemblyInfo.cs
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_areaof_rectangle\obj\Debug\net8.0\calc_areaof_rectangle.csproj.CoreCompileInputs.cache
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_areaof_rectangle\bin\Debug\net8.0\calc_areaof_rectangle.exe
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_areaof_rectangle\bin\Debug\net8.0\calc_areaof_rectangle.deps.json
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_areaof_rectangle\bin\Debug\net8.0\calc_areaof_rectangle.runtimeconfig.json
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_areaof_rectangle\bin\Debug\net8.0\calc_areaof_rectangle.dll
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_areaof_rectangle\bin\Debug\net8.0\calc_areaof_rectangle.pdb
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_areaof_rectangle\obj\Debug\net8.0\calc_areaof_rectangle.dll
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_areaof_rectangle\obj\Debug\net8.0\refint\calc_areaof_rectangle.dll
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_areaof_rectangle\obj\Debug\net8.0\calc_areaof_rectangle.pdb
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_areaof_rectangle\obj\Debug\net8.0\calc_areaof_rectangle.genruntimeconfig.cache
+C:\Users\s.bh.chandrasekaran\Documents\course\c# net\calc_areaof_rectangle\obj\Debug\net8.0\ref\calc_areaof_rectangle.dll
