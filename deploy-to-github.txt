@@ -21,3 +21,16 @@ Uploading the .NET project to GitHub
 8. If error on step 7, follow these 2 actions:
 	Enter git pull origin main --rebase
 	Enter git push origin main
+
+
+Pulling from git to local:
+
+1. git init
+
+2. git branch -M main
+
+3. git remote add origin {Path}
+
+4. git pull origin main
+
+5. git status
