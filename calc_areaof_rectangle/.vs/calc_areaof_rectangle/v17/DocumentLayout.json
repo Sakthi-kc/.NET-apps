@@ -1,13 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\s.bh.chandrasekaran\\Documents\\course\\c# net\\calc_areaof_rectangle\\",
+  "WorkspaceRootPath": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\calc_areaof_rectangle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11CEA71B-8370-43D6-B91E-0ABE10C118D3}|calc_areaof_rectangle.csproj|C:\\Users\\s.bh.chandrasekaran\\Documents\\course\\c# net\\calc_areaof_rectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11CEA71B-8370-43D6-B91E-0ABE10C118D3}|calc_areaof_rectangle.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11CEA71B-8370-43D6-B91E-0ABE10C118D3}|calc_areaof_rectangle.csproj|c:\\users\\s.bh.chandrasekaran\\documents\\course\\c# net\\calc_areaof_rectangle\\calc_rectangle_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11CEA71B-8370-43D6-B91E-0ABE10C118D3}|calc_areaof_rectangle.csproj|c:\\users\\kcsak\\onedrive\\documents\\learning\\learning c#\\calc_areaof_rectangle\\calc_rectangle_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11CEA71B-8370-43D6-B91E-0ABE10C118D3}|calc_areaof_rectangle.csproj|solutionrelative:calc_rectangle_area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,36 +14,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Calc_Rectangle_Area.cs",
-              "DocumentMoniker": "C:\\Users\\s.bh.chandrasekaran\\Documents\\course\\c# net\\calc_areaof_rectangle\\Calc_Rectangle_Area.cs",
-              "RelativeDocumentMoniker": "Calc_Rectangle_Area.cs",
-              "ToolTip": "C:\\Users\\s.bh.chandrasekaran\\Documents\\course\\c# net\\calc_areaof_rectangle\\Calc_Rectangle_Area.cs",
-              "RelativeToolTip": "Calc_Rectangle_Area.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAkwCoAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T17:34:09.352Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\s.bh.chandrasekaran\\Documents\\course\\c# net\\calc_areaof_rectangle\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\s.bh.chandrasekaran\\Documents\\course\\c# net\\calc_areaof_rectangle\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAswCUAAAAVAAAA",
+              "Title": "Calc_Rectangle_Area.cs",
+              "DocumentMoniker": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\calc_areaof_rectangle\\Calc_Rectangle_Area.cs",
+              "RelativeDocumentMoniker": "Calc_Rectangle_Area.cs",
+              "ToolTip": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\calc_areaof_rectangle\\Calc_Rectangle_Area.cs",
+              "RelativeToolTip": "Calc_Rectangle_Area.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAB0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T17:33:10.473Z",
+              "WhenOpened": "2025-04-30T16:21:36.237Z",
               "EditorCaption": ""
             }
           ]

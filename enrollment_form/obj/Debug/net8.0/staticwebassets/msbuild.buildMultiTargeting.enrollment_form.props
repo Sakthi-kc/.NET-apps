@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\enrollment_form.props" />
+</Project>

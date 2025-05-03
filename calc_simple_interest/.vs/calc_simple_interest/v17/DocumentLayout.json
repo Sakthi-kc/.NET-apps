@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\s.bh.chandrasekaran\\Documents\\course\\c# net\\calc_simple_interest\\",
+  "WorkspaceRootPath": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\calc_simple_interest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B962E1F0-9C3D-4BAA-864C-A11073DD08E8}|calc_simple_interest.csproj|c:\\users\\s.bh.chandrasekaran\\documents\\course\\c# net\\calc_simple_interest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B962E1F0-9C3D-4BAA-864C-A11073DD08E8}|calc_simple_interest.csproj|c:\\users\\kcsak\\onedrive\\documents\\learning\\learning c#\\calc_simple_interest\\calculate_si.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B962E1F0-9C3D-4BAA-864C-A11073DD08E8}|calc_simple_interest.csproj|solutionrelative:calculate_si.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962E1F0-9C3D-4BAA-864C-A11073DD08E8}|calc_simple_interest.csproj|c:\\users\\kcsak\\onedrive\\documents\\learning\\learning c#\\calc_simple_interest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B962E1F0-9C3D-4BAA-864C-A11073DD08E8}|calc_simple_interest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +18,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Calculate_SI.cs",
+              "DocumentMoniker": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\calc_simple_interest\\Calculate_SI.cs",
+              "RelativeDocumentMoniker": "Calculate_SI.cs",
+              "ToolTip": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\calc_simple_interest\\Calculate_SI.cs",
+              "RelativeToolTip": "Calculate_SI.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:24:15.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\s.bh.chandrasekaran\\Documents\\course\\c# net\\calc_simple_interest\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\calc_simple_interest\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\s.bh.chandrasekaran\\Documents\\course\\c# net\\calc_simple_interest\\Program.cs",
+              "ToolTip": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\calc_simple_interest\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAwwBUAAABHAAAA",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBUAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T17:28:55.94Z",
               "EditorCaption": ""

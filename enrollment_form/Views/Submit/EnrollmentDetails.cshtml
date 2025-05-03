@@ -1,0 +1,82 @@
+﻿@{
+    ViewData["Title"] = "Enrollment";
+    ViewData["Heading"] = "Enrollment Form";
+}
+@model UserDetailModel
+
+<h6>Happy learning!</h6>
+<br />
+
+<div class="container">
+    <div class="row d-flex">
+        <div class="col-sm-8">
+            <form method="post" asp-action="DisplayDetails" asp-controller="Submit">
+                <div class="row mb-3">
+                    <h6>Please fill up the details: </h6>
+                </div>
+
+                <div class="row mb-3">
+                    <div class="col-sm-4">
+                        Enter your name:
+                    </div>
+                    <div class="col-sm-6">
+                        <input type="text" asp-for="StudentName" />
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <div class="col-sm-4">
+                        Enter your email address:
+                    </div>
+                    <div class="col-sm-6">
+                        <input type="text" asp-for="Email"/>
+                        <br />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <div class="col-sm-4">
+                        Enter your contact number:
+                    </div>
+                    <div class="col-sm-6">
+                        <input type="tel" asp-for="PhoneNumber" />
+                        <br />
+                        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <div class="col-sm-4">
+                        Enter your year of graduation:
+                    </div>
+                    <div class="col-sm-6">
+                        <input type="text" asp-for="GraduatedYear" />
+                        <br />
+                        <span asp-validation-for="GraduatedYear" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <div class="col-sm-4">
+                        Please choose a course:
+                    </div>
+                    <div class="col-sm-6">
+                        <select class="form-select-sm" asp-for="SelectedCourse" asp-items="@(new SelectList(Model.Course))">
+                            <option value="">-- Select Course --</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="row mb-3 col-sm-2">
+                    <button type = "Submit" class="btn btn-primary w-100">Submit</button>
+                </div>
+
+            </form>
+        </div>
+        <div class="col-sm-4 d-flex justify-content-start align-items-center">
+            <img src="~/courses.png" alt="Crash course" class="img-fluid" style="max-width: auto; height: auto;" />
+        </div>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

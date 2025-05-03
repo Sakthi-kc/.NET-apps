@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\enrollment_form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|c:\\users\\kcsak\\onedrive\\documents\\learning\\learning c#\\enrollment_form\\views\\submit\\enrollmentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|solutionrelative:views\\submit\\enrollmentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|c:\\users\\kcsak\\onedrive\\documents\\learning\\learning c#\\enrollment_form\\models\\userdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|solutionrelative:models\\userdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|c:\\users\\kcsak\\onedrive\\documents\\learning\\learning c#\\enrollment_form\\controllers\\submitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|solutionrelative:controllers\\submitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|c:\\users\\kcsak\\onedrive\\documents\\learning\\learning c#\\enrollment_form\\views\\submit\\displaydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|solutionrelative:views\\submit\\displaydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDetailModel.cs",
+              "DocumentMoniker": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\enrollment_form\\Models\\UserDetailModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserDetailModel.cs",
+              "ToolTip": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\enrollment_form\\Models\\UserDetailModel.cs",
+              "RelativeToolTip": "Models\\UserDetailModel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:20:38.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubmitController.cs",
+              "DocumentMoniker": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\enrollment_form\\Controllers\\SubmitController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SubmitController.cs",
+              "ToolTip": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\enrollment_form\\Controllers\\SubmitController.cs",
+              "RelativeToolTip": "Controllers\\SubmitController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:00:03.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnrollmentDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\enrollment_form\\Views\\Submit\\EnrollmentDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Submit\\EnrollmentDetails.cshtml",
+              "ToolTip": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\enrollment_form\\Views\\Submit\\EnrollmentDetails.cshtml",
+              "RelativeToolTip": "Views\\Submit\\EnrollmentDetails.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T15:45:36.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DisplayDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\enrollment_form\\Views\\Submit\\DisplayDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Submit\\DisplayDetails.cshtml",
+              "ToolTip": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\enrollment_form\\Views\\Submit\\DisplayDetails.cshtml",
+              "RelativeToolTip": "Views\\Submit\\DisplayDetails.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T06:06:58.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

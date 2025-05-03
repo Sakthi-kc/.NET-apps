@@ -1,0 +1,63 @@
+﻿@{
+    ViewData["Title"] = "Display";
+    ViewData["Heading"] = "Verify Details";
+}
+@model UserDetailModel
+
+<div class="container">
+
+    <br />
+    <strong><h6 class="text-success">@Model.DisplayMessage()</h6></strong>
+
+        <div class="row mt-4">
+            <h6>Submitted form: </h6>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col-sm-2">
+                Name:
+            </div>
+            <div class="col-sm-5">
+                @Model.StudentName
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-sm-2">
+                Email address:
+            </div>
+            <div class="col-sm-5">
+                @Model.Email
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-sm-2">
+                Contact number:
+            </div>
+            <div class="col-sm-5">
+                @Model.PhoneNumber
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-sm-2">
+                Year of graduation:
+            </div>
+            <div class="col-sm-5">
+                @Model.GraduatedYear
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-sm-2">
+                Selected course:
+            </div>
+            <div class="col-sm-5">
+                @Model.SelectedCourse
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col-sm-2">
+                <a asp-action="EnrollmentDetails" asp-controller="Submit" class="btn btn-primary">Re-Submit</a>
+            </div>
+        </div>
+
+    </div>
