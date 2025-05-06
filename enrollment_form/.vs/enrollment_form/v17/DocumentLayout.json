@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|solutionrelative:views\\submit\\enrollmentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|c:\\users\\kcsak\\onedrive\\documents\\learning\\learning c#\\enrollment_form\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|c:\\users\\kcsak\\onedrive\\documents\\learning\\learning c#\\enrollment_form\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|c:\\users\\kcsak\\onedrive\\documents\\learning\\learning c#\\enrollment_form\\views\\submit\\displaydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|solutionrelative:views\\submit\\displaydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|c:\\users\\kcsak\\onedrive\\documents\\learning\\learning c#\\enrollment_form\\models\\userdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|solutionrelative:models\\userdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,8 +27,8 @@
       "RelativeMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|solutionrelative:controllers\\submitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|c:\\users\\kcsak\\onedrive\\documents\\learning\\learning c#\\enrollment_form\\views\\submit\\displaydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|solutionrelative:views\\submit\\displaydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|c:\\users\\kcsak\\onedrive\\documents\\learning\\learning c#\\enrollment_form\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CB39C097-EC81-4321-98BA-6AAE9C76B079}|enrollment_form.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,19 +55,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\enrollment_form\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\enrollment_form\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T09:28:28.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\enrollment_form\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\enrollment_form\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T09:26:28.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\enrollment_form\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\enrollment_form\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-06T09:20:39.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UserDetailModel.cs",
               "DocumentMoniker": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\enrollment_form\\Models\\UserDetailModel.cs",
               "RelativeDocumentMoniker": "Models\\UserDetailModel.cs",
               "ToolTip": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\enrollment_form\\Models\\UserDetailModel.cs",
               "RelativeToolTip": "Models\\UserDetailModel.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T16:20:38.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "SubmitController.cs",
               "DocumentMoniker": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\enrollment_form\\Controllers\\SubmitController.cs",
               "RelativeDocumentMoniker": "Controllers\\SubmitController.cs",
@@ -74,7 +125,7 @@
               "RelativeDocumentMoniker": "Views\\Submit\\EnrollmentDetails.cshtml",
               "ToolTip": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\enrollment_form\\Views\\Submit\\EnrollmentDetails.cshtml",
               "RelativeToolTip": "Views\\Submit\\EnrollmentDetails.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEMAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAwEkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-30T15:45:36.178Z",
               "EditorCaption": ""
@@ -87,7 +138,7 @@
               "RelativeDocumentMoniker": "Views\\Submit\\DisplayDetails.cshtml",
               "ToolTip": "C:\\Users\\kcsak\\OneDrive\\Documents\\Learning\\learning C#\\enrollment_form\\Views\\Submit\\DisplayDetails.cshtml",
               "RelativeToolTip": "Views\\Submit\\DisplayDetails.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAD4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-03T06:06:58.217Z",
               "EditorCaption": ""

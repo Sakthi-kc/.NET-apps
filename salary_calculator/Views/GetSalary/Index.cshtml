@@ -1,0 +1,131 @@
+﻿@model salary_calculator.Models.EmployeeModel
+
+@{
+ViewData["Title"] = "Salary Page";
+}
+
+<link href="https://fonts.googleapis.com/css2?family=Cascadia+Code:ital,wght@0,200..700;1,200..700&display=swap" rel="stylesheet">
+
+<div class="container">
+    <div id="intro" class="row flex-column" style="font-family: 'Cascadia Code';">
+        <p>
+            AppNova Pvt Solutions is a forward-thinking technology company delivering innovative software solutions across industries.
+            We prioritize quality, agility, and client satisfaction in every project. We continue to provide high quality work.
+        </p>
+        <p class="text-opacity-25 text-black-50">#Driving innvoation with #SmartSolutions</p>
+    </div>
+
+</div>
+
+<br />
+
+<div class="container">
+    <div class="row d-flex">
+        <div id="form" class="col-sm-6">
+            <form method="post" asp-controller="GetSalary" asp-action="Index">
+                <div class="row mb-3">
+                    <p>Please calculate your net salary by entering the below required details:</p>
+                </div>
+
+                <div class="row mt-2 mb-3">
+                    <div class="col sm-3">
+                        Enter your job level:
+                    </div>
+                    <div class="col sm-2">
+                        <input type="text" name="Level" asp-for="Level" />
+                        <br />
+                        <span asp-validation-for="Level" class="text-danger" style="font-size: 12px;"></span>
+                    </div>
+                </div>
+
+                <div class="row mb-3">
+                    <div class="col sm-3">
+                        Enter your basic salary:
+                    </div>
+                    <div class="col sm-2">
+                        <input type="text" name="BasicSalary" min=500 asp-for="BasicSalary"/>
+                        <br />
+                        <span asp-validation-for="BasicSalary" class="text-danger" style="font-size: 12px;"></span>
+                    </div>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Calculate</button>
+
+            </form>
+
+            <p class="mt-4">
+                Your net salary is :
+                <span class="text-success">@Model.CalculateNetSalary()</span>
+            </p>
+        </div>
+
+        <div class="container col-sm-5 flex-column ms-auto">
+            <div class="row d-flex">
+                <div class="col-sm-6">
+                    <div class="flip-card">
+                        <div class="flip-card-inner">
+                            <div class="flip-card-front" style="background-color: indianred;">
+                                <h5>Gross Salary</h5>
+                            </div>
+                            <div class="flip-card-back" style="background-color: darksalmon;">
+                                <p>Basic Salary + HRA + Perks</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6">
+                    <div class="flip-card">
+                        <div class="flip-card-inner">
+                            <div class="flip-card-front" style="background-color: lightskyblue;">
+                                <h5>HRA</h5>
+                            </div>
+                            <div class="flip-card-back" style="background-color: paleturquoise;">
+                                <p>25% of Basic Salary</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <br />
+
+            <div class="row d-flex">
+                <div class="col-sm-6">
+                    <div class="flip-card">
+                        <div class="flip-card-inner">
+                            <div class="flip-card-front" style="background-color: mediumaquamarine;">
+                                <h5>Perks</h5>
+                            </div>
+                            <div class="flip-card-back" style="background-color: aquamarine;">
+                                <p>Conveyance Allowance + Entertainment Allowance</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6">
+                    <div class="flip-card">
+                        <div class="flip-card-inner">
+                            <div class="flip-card-front" style="background-color: darkgoldenrod;">
+                                <h5>Net Salary</h5>
+                            </div>
+                            <div class="flip-card-back" style="background-color: burlywood;">
+                                <p>Gross Salary - Income Tax;</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

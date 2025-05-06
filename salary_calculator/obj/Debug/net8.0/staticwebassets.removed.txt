@@ -1,0 +1,2 @@
+C:\Users\kcsak\OneDrive\Documents\Learning\learning C#\salary_calculator\wwwroot\background.png
+C:\Users\kcsak\OneDrive\Documents\Learning\learning C#\salary_calculator\wwwroot\favicon.ico
